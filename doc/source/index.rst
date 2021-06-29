@@ -23,7 +23,8 @@ In general, a simulation consists of the following steps:
    parameters
    correlation
    analysis
-   examples
+   examples 
+   contact us
 
 Full documentation
 ==================
